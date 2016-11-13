@@ -3,7 +3,7 @@
 int main()
 {
     int i,j;
-    for(i=4;i<=1;i--)
+    for(i=4;i<=1;i--)                                   //pattern type1
     {
         for(j=1;j<=i;j++)
         {
