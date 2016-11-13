@@ -1,0 +1,320 @@
+<html>
+<head>
+<title>virendra
+</title>
+<link rel="stylesheet" href="G:\software\pdf\di\bootstrap-3.3.5-dist\css/bootstrap.min.css">
+<script src="G:\software\pdf\di\bootstrap-3.3.5-dist\jquery-1.11.1\dist\jquery.min.js"></script>
+<script src="G:\software\pdf\di\bootstrap-3.3.5-dist\js\bootstrap.min.js"></script>
+</head>
+<body background="D:\virendra\new\wa.jpg">
+<h1 id="top"></h1>
+<ul class="nav nav-pills">
+	<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="#35">
+	Home<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+	<li><a href="#3"><b>Angry Typist</b></a></li>
+	<li><img src="D:\virendra_document\angry.gif"></img></li>
+	</ul>
+	</li>
+	
+	<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="#2">
+	Education<span class="caret"></span></a>
+	<ul class="dropdown-menu" >
+	<li><a href="#c">Class 10th</a></li>
+	<li><a href="#c">Class 12th</a></li>
+	<li><a href="#b">B.TECH</a></li>
+	
+	</ul>
+	</li>
+	
+	
+	<li class="dropdown">
+ <a class="dropdown-toggle" data-toggle="dropdown" href="#"> 
+ known languages <span class="caret"></span>
+ </a> <ul class="dropdown-menu">
+ <li><a href="#1.1">C</a></li> 
+ <li><a href="#1.1">C++</a></li> 
+ <li><a href="#1.1">Java</a></li>
+ <li><a href="#1.1">Python</a></li> 
+ <li class="divider"></li> 
+ <li  class="text-danger"><b>Frame work</b></li>
+ <li class="divider"></li>
+ <li><a href="#1.2">Html</a></li>
+ <li><a href="#1.2">Css</a></li>
+ <li><a href="#1.2">Bootstrap</a></li>
+ </ul>
+ </li>
+	
+	<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="#4">
+	Projects<span class="caret"></span></a>
+	<ul class="dropdown-menu">
+	<li><a href="#1.3">SMAS</a></li>
+	<li class="divider"></li>
+	<li><a href="#1.3" >Framework Basics Files</a></li>
+	</ul>
+	</li>
+	
+	<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="#3">Hobbies <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+		<li><a href="#1.4">Net surfing</a></li>
+	<li><a href="#3">Chess</a></li>
+	<li class="divider"></li>
+	<li><a href="#3">3*3*3 cube</a></li>
+	<li class="divider"></li>
+	<li><a href="#3">Robotics</a></li>
+	<li class="divider"></li>
+	<li><a href="#3">collection</a></li>
+	</ul>
+	</li>
+	
+	<li class="dropdown">
+	<a class="dropdown-toggle" data-toggle="dropdown" href="#3">Contact <span class="caret"></span></a>
+	<ul class="dropdown-menu">
+		<li><a href="#p">Phone No.</a></li>
+	<li><a href="#p">Address</a></li>
+	</ul>
+	</li>
+
+<ul/>
+<hr><br>
+<div class="container">
+<ol class="breadcrumb" style="background-color:FFFFCC">
+ <li><a href="#">Year</a></li>
+ <li><a href="#">2016</a></li> 
+ <li class="active">Feb</li> </ol>
+ </div>
+<div class="container" >
+<div class="jumbotron" width="40%" style="background-color:FFFF99" >
+<div class="alert alert-success"><h4 class="text-primary" align="center">Personal information</h4></div>
+<p title="virendra">
+<img  style="float:right;width:140px;height:160px;" src="D:\virendra\virendra drive\NEW IMAGES\me.jpg" class="img-thumbnail"></img>&nbsp;&nbsp;
+<ul title="virendra">
+	<li ><h6 class="text-success">Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Virendra Singh Jhala</h6></li>
+	<li><h6 class="text-success">Degree:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.TECH</h6></li>
+	<li><h6 class="text-success">Expertise:&nbsp;UI/UX Developer</h6></li>
+	<li><h6 class="text-success">College:&nbsp;&nbsp;&nbsp;&nbsp;Techno India NJR Institue Of Technology</h6></li>
+	<li><h6 class="text-success">City:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udaipur</h6></li>
+</ul>
+</p>
+<p>
+<img src="D:\virendra_document\loading.gif"></img>
+<h6>"Best Preparation For Tomorrow Is Doing Your Best Today."</h6>
+</p> 
+<p align="right"><a href="#down"></a></p>
+<h2 class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#3"><button type="button" class="btn btn-success btn-lg btn-sm">Click Me<span class="caret"></span></button></a>
+<ul class="dropdown-menu">
+<li> Hello!</li>
+</ul>
+<h2>
+</div>
+</div>
+<div class="container">
+<div class="jumbotron" style="background-color:FFFF99">
+<div class="alert alert-danger"><h4 align="center">School</h4></div>
+<h1 id="c"></h1>
+<p>
+<table class="table table-hover">
+<thead>
+<th>City</th>
+<th>School</th>
+<th>Class</th>
+<th>Year</th>
+</thead>
+<tbody>
+<tr class="warning">
+<td><h6>Ratlam</h6></td>
+<td><h6>School Of Excellence</h6></td>
+<td><h6>10th</h6></td>
+<td><h6>2010</h6></td>
+</tr>
+<tr class="success">
+<td><h6>Ratlam</h6></td>
+<td><h6>School Of Excellence</h6></td>
+<td><h6>12th</h6></td>
+<td><h6>2012</h6></td>
+</tr>
+</tbody>
+</table>
+</p>
+<p align="right"><a href="#top">//\\</a></p>
+</div>
+</div>
+<div class="container">
+<h2 id="b"> </h2>
+<div class="jumbotron" style="background-color:FFFF99">
+<div class="alert alert-danger"><h4 align="center">College</h4></div>
+<p>
+<img src="D:\virendra\ne\Untitled Folder\New folder\birth\f.jpg" style="float:right;width:180px;height:110px" class="img-circle"></img>
+<ul class="text-danger" title="College">
+<h6><li>College:&nbsp;Techno India NJR Institute Of Technology</li>
+<li>Year:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013-2017</li>
+<li>City:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Udaipur</li>
+<li>State:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rajasthan</li></h6>
+</ul>
+</p>
+</div>
+</div>
+
+<div class="container">
+<div class="jumbotron" style="background-color:FFFF99">
+<div class="alert alert-danger"><h4 class="text-primary" align="center">Programming Language's</h4></div>
+<h2 id="1.1"></h2>
+<p>
+<img src="D:\virendra_document\c.jpg" style="float:left;width:140px;height:90px" class="img-circle"></img>
+<h6 class="text-primary">Intermediate ( C Language ) </h6>
+</p><br>
+<p>
+<img src="D:\virendra_document\th.jpg" style="float:left;width:140px;height:90px" class="img-circle"></img>
+<h6 class="text-primary">Intermediate ( C++ Language ) </h6>
+</p>
+<p><br>
+<img src="D:\virendra_document\java.jpg" style="float:left;width:140px;height:90px" class="img-circle"></img>
+<h6 class="text-primary">Intermediate ( Java Language )</h6>
+</p>
+<p><br>
+<img src="D:\virendra_document\py.jpg" style="float:left;width:140px;height:90px" class="img-circle"></img>
+<h6 class="text-success">Basic ( Python Language )</h6>
+</p>
+<p align="right"><a href="#top">//\\</a></p>
+</div>
+</div>
+<div class="container" >
+<h2 id="1.2"></h2>
+<div class="jumbotron" style="background-color:FFFF99" >
+<div class="alert alert-danger"><h4 align="center">Frame work Language's</h4></div>
+<p>
+<img src="D:\virendra_document\htm.jpg" style="float:left;width:140px;height:90px" class="img-thumbnail"></img>
+<h6>advanced ( Html )</h6>
+</p>
+<p>
+<img src="D:\virendra_document\boo.jpg"  style="float:left;width:140px;height:90px" class="img-thumbnail"></img>
+<h6>advanced ( Bootstrap )</h6>
+</p>
+<p>
+<img src="D:\virendra_document\css.jpg"  style="float:left;width:140px;height:90px" class="img-thumbnail"></img>
+<h6>Intermediate ( Css )</h6>
+</p>
+<p align="right"><a href="#top">//\\</a></p>
+</div>
+</div>
+<div class="container">
+<div class="jumbotron" style="background-color:FFFF99">
+<h2 id="1.3"></h2>
+<div class="alert alert-danger"><h4 align="center">Project and Files</h4></div>
+<p>
+<img src="D:\virendra_document\ma.jpg" style="float:right;width:140px;height:90px" class="img-thumbnail"> </img>
+<h6 class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#4">
+<button type="button" class="btn btn-warning">&nbsp;&nbsp;Students Marks Analysis System<span class="caret"></span></button></a>
+<ul class="dropdown-menu">
+<li class="text-primary"><a href="Now Downloading Not Possible"> Download </a></li>
+</ul>
+</h6><br><br><br><br>
+<img src="D:\virendra_document\files.jpg"  style="float:right;width:140px;height:90px" class="img-thumbnail"></img><h6 class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#4"><button type="button" class="btn btn-warning">&nbsp;&nbsp;&nbsp;Files<span class="caret"></span></button>
+</a>
+<ul class="dropdown-menu">
+<li >Files Not Available</li>
+</ul>
+</h6>
+</p>
+
+</div>
+</div>
+<div class="container">
+<div class="jumbotron" style="background-color:FFFF99">
+<h4 id="1.4"></h4>
+<div class="aler alert-danger"><h4 align="center">NET Surfing </h4></div>
+<div class="row">
+<div class="col-md-4">
+<h5><b class="text-primary">Networking Tools</b></h5>
+<h6>
+<ul>
+<li>Cmd</li>
+<li>Smac</li>
+<li>Hotspot shield</li>
+<li>VPN</li>
+<li>Psiphon</li>
+<li>Cyber rom</li>
+<li>TCP/UDP</li>
+<li>IP V6,V4</li>
+</ul></h6>
+</div>
+<div class="col-md-4">
+<h5><b class="text-primary">Utilities Tools</b></h5>
+<h6>
+<ul>
+<li>recuva</li>
+<li>Tuneup</li>
+<li>Cleaner</li>
+<li>Defgrament</li>
+<li>Speed Fan</li><li></li>
+</ul></h6>
+</div>
+<div class="col-md-2">
+<h5><b class="text-primary">Websites</b></h5>
+<h6><ul>
+<li>www.ceators2016.cu.cc</li>
+<li>www.creators2016wordpress.com</li>
+<li>www.vsjblog.wordpress.com</li>
+<li>myudaipur.tk</li>
+</ul></h6>
+</div>
+</div>
+<p align="right"><a href="#top">//\\</a></p>
+</div>
+</div>
+<div class="container">
+<h2 id="p"></h2>
+<div class="jumbotron">
+<div class="row"> 
+<div class="col-md-4"><h5 class="text-primary"title="Like software"><b>LIKE SOFTWARE</b></h5>
+<h6>
+<ul>
+<li>Desktop creator</li>
+<li>Utility software</li>
+<li>Cursore</li>
+<li>Fenchs</li>
+<li>login</li>
+<li>Background changers</li>
+<li>Password maker</li>
+</ul>
+</h6>
+</div>
+<div class="col-md-4"><h5 title="Social sites" class="text-primary"><b>SOCIAL SITES</b></h5>
+<h6>
+<ul>
+<li>Linked In</li>
+<li>Github</li>
+<li>Skype</li>
+<li>Stardock</li>
+<li>Themeforest</li>
+</ul>
+</h6>
+</div>
+<div class="col-md-4"><h5 title="Contact" class="text-primary"><b>CONTACT</b></h5>
+<h6>
+<ul>
+<li>Phone No.:9785760624</li>
+<li>City:Nimbahera</li>
+<li>State:Rajasthan</li>
+</ul>
+</h6>
+</div>
+
+</div>
+<img src="D:\virendra_document\bus.gif"></img>
+<p align="center"><ul class="pager"><li><h2 id="down"></h2></li></ul></p>
+<p align="right"><a href="#top">//\\</a></p>
+
+</div>
+</div>
+
+
+
+</body>
+</html>
