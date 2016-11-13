@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main()
+{
+    int i,j,a=3,k,l=1;
+    for(i=1;i<=4;i++){
+        for(j=1;j<=a;j++)
+            printf(" ");
+            a--;
+        for(k=1;k<=i;k++){
+            printf("%d",l);
+            printf(" ");
+        }
+            printf("\n");
+            l++;
+    }
+    return 0;
+}
+
