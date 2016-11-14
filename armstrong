@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+    int a,ar=0,num,a1;
+    printf("Enter the number \n");
+    scanf("%d",&a);
+    a1=a;
+    while(a!=0)
+    {
+        num=a%10;
+        ar=ar+(num*num*num);
+        a=a/10;
+        if(a1==ar)
+    printf("number is Armstrong = %d",ar);
+    }
+    return 0;
+}
