@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<ctype.h>
+int main()
+{
+    int n[30],i,j,temp=0,a;
+    printf("Enter the range \n");
+    scanf("%d",&a);
+    for(j=1;j<=a;j++)
+    {
+        scanf("%d",&n[j]);
+    }
+    for(i=1;i<=a;i++)
+    {
+       for(j=1;j<=a-1;j++)
+       {
+           if(n[j]>n[j+1]){
+                temp=n[j];
+                n[j]=n[j+1];
+                n[j+1]=temp;}
+       }
+
+    }
+    for(j=1;j<=1;j++)
+    printf("result= %d",n[j]);
+    return 0;
+}
+
+
+
+
