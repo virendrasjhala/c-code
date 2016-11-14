@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+    int a[30],num,big,i;
+    printf("Enter the numbers \n");
+    scanf("%d",&num);
+    for(i=1;i<=num;i++)
+    {
+        scanf("%d",&a[i]);
+        big=a[i];
+    }
+     for(i=1;i<=num;i++)
+    {
+        if(big<a[i])
+            {
+                big=a[i];
+            }
+    }
+    printf("Greatest number = %d",big);
+    return 0;
+}
+
