@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+    int i,a,sum,sum1=0,sum2=1;
+    printf("Enter number");
+    scanf("%d",&a);
+    printf("0 1 ");
+    for(i=2;i<=a;i++)
+        {
+            sum=sum1+sum2;
+            printf(" %d",sum);
+            sum1=sum2;
+            sum2=sum;
+        }
+    return 0;
+
+}
