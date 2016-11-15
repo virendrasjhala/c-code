@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<string.h>
+#include<conio.h>
+int main()
+{
+   // clrscr();
+    char s[]="virendrarens";
+    char s1[]="ren";
+    int a;
+    int b,i,j;
+    a=strlen(s);
+    b=strlen(s1);
+    for(i=0;i<=a-b;i++)
+    {
+        for(j=0;i<b;j++)
+            if(s[i+j]!=s1[j])
+            break;
+
+        if(j==b)
+            printf("find 'ren' at index = %d\n",i);
+    }
+    return 0;
+}
