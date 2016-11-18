@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+//int myfun(n);
+{
+    myfun(5);
+}
+int myfun(int a)
+{
+    if(a%2==0)
+    {
+        printf("Even");
+        myfun(a/2);
+
+    }
+    else
+        printf("odd");
+        myfun(a-1);
+
+}
